@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-1.jpg",
+        "title":"Dental service",
+        "price":3000,
+
+        "description":"A comprehensive Dental Centre became operational at United Hospital on 29th April ."
+       
+    },
+    {
+        "id": 2,
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-2.jpg",
+        "title":"Bariatric Surgery",
+        "price": 2000,
+        "description": "Gastric bypass and other weight-loss surgeries — known collectively as bariatric surgery"
+    },
+    {
+        "id": 3,
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-3.jpg",
+        "title":"Heart Transplant",
+        "price": 6000,
+        "description": "Heart Transplant and other weight-loss surgeries — known collectively as bariatric "
+    },
+    {
+        "id": 4,
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-4.jpg",
+        "title":"Chemical Research",
+        "price": 11000,
+        "description": "Chemical Research other weight-loss surgeries — known collectively as bariatri"
+    },
+    {
+        "id": 5,
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-5.jpg",
+        "title":"Anatomical Pathology",
+        "price": 8000,
+        "description": "Anatomical Pathology other weight-loss surgeries — known collectively as bariatri "   
+    },
+    {
+        "id": 6,
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-6.jpg",
+        "title":"Heart Disease",
+        "price": 9000,
+        "description": "Heart Disease weight-loss surgeries — known collectively as bariatri"
+
+    }
+   
+    
+]
